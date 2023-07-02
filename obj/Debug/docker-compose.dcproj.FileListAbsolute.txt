@@ -1,0 +1,14 @@
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\RecipeBook.API.deps.json
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\RecipeBook.API.runtimeconfig.json
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\appsettings.Development.json
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\appsettings.json
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\RecipeBook.API.exe
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\RecipeBook.API.dll
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\RecipeBook.API.pdb
+C:\Users\NikaGagua\source\repos\RecipeBook\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\NikaGagua\source\repos\RecipeBook\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\NikaGagua\source\repos\RecipeBook\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\RecipeBook.ServiceLibrary.dll
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\RecipeBook.ServiceLibrary.pdb
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\System.Data.SqlClient.dll
+C:\Users\NikaGagua\source\repos\RecipeBook\bin\Debug\Dapper.dll

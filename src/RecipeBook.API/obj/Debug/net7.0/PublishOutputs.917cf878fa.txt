@@ -1,0 +1,9 @@
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\RecipeBook.API.exe
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\appsettings.Development.json
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\appsettings.json
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\RecipeBook.API.dll
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\RecipeBook.API.deps.json
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\RecipeBook.API.runtimeconfig.json
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\RecipeBook.API.pdb
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\RecipeBook.ServiceLibrary.dll
+C:\Users\NikaGagua\source\repos\RecipeBook\deploy\RecipeBook.ServiceLibrary.pdb

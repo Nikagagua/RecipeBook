@@ -1,0 +1,6 @@
+C:\Users\NikaGagua\source\repos\RecipeBook\src\RecipeBook.Main\bin\Debug\RecipeBook.Main.dacpac
+C:\Users\NikaGagua\source\repos\RecipeBook\src\RecipeBook.Main\obj\Debug\RecipeBook.Main.sqlproj.AssemblyReference.cache
+C:\Users\NikaGagua\source\repos\RecipeBook\src\RecipeBook.Main\obj\Debug\RecipeBook.Main.dll
+C:\Users\NikaGagua\source\repos\RecipeBook\src\RecipeBook.Main\obj\Debug\RecipeBook.Main.pdb
+C:\Users\NikaGagua\source\repos\RecipeBook\src\RecipeBook.Main\bin\Debug\RecipeBook.Main.dll
+C:\Users\NikaGagua\source\repos\RecipeBook\src\RecipeBook.Main\bin\Debug\RecipeBook.Main.pdb
